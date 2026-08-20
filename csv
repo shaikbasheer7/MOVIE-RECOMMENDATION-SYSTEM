@@ -1,0 +1,51 @@
+movieId,title,genres
+1,Avatar,Action Adventure Sci-Fi
+2,Avengers,Action Adventure
+3,Iron Man,Action Sci-Fi
+4,Batman Begins,Action Crime Drama
+5,The Dark Knight,Action Crime Drama
+6,Spider-Man,Action Adventure
+7,Doctor Strange,Fantasy Action
+8,Thor,Action Fantasy
+9,Joker,Crime Drama Thriller
+10,Superman,Action Adventure Sci-Fi
+11,Titanic,Romance Drama
+12,Inception,Sci-Fi Thriller
+13,Interstellar,Sci-Fi Adventure
+14,The Notebook,Romance Drama
+15,Frozen,Animation Family
+16,Toy Story,Animation Comedy
+17,Finding Nemo,Animation Adventure
+18,The Conjuring,Horror Thriller
+19,Annabelle,Horror Mystery
+20,It,Horror Drama
+21,John Wick,Action Thriller
+22,Mission Impossible,Action Spy Thriller
+23,Fast and Furious,Action Racing
+24,Cars,Animation Comedy
+25,Shrek,Animation Fantasy Comedy
+26,Deadpool,Action Comedy
+27,The Mask,Comedy Fantasy
+28,Hangover,Comedy Drama
+29,Parasite,Thriller Drama
+30,Gladiator,Historical Action Drama
+31,Braveheart,Historical Drama
+32,Black Panther,Action Adventure
+33,Captain America,Action Adventure
+34,Hulk,Action Sci-Fi
+35,Venom,Action Sci-Fi
+36,Doctor Sleep,Horror Thriller
+37,Moana,Animation Adventure
+38,Coco,Animation Family
+39,Up,Animation Drama
+40,Kung Fu Panda,Animation Comedy
+41,La La Land,Romance Musical
+42,The Lion King,Animation Adventure
+43,Matrix,Sci-Fi Action
+44,Tenet,Sci-Fi Thriller
+45,Avatar 2,Action Adventure Sci-Fi
+46,Jumanji,Adventure Comedy
+47,Dune,Sci-Fi Adventure
+48,The Nun,Horror Mystery
+49,Smile,Horror Thriller
+50,Minions,Animation Comedy
